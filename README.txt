@@ -15,7 +15,7 @@ S3 Website Endpoint URL:
 http://website-deploy-first.s3-website-us-east-1.amazonaws.com/
 
 CloudFront Endpoint URL:
-https:d16kqgoo7k12qa.cloudfront.net
+https://d16kqgoo7k12qa.cloudfront.net
 
 S3 Website Endpoint (HTML Website URL):
 http://website-deploy-first.s3-website-us-east-1.amazonaws.com/index.html
@@ -24,3 +24,4 @@ Customization:
 The website was customized by changing the title to "Bharath's Travel Blog" and replacing the default background image with a Mountain photo.
 
 The website is publicly accessible through a web browser using the URLs provided above.
+
